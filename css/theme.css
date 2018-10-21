@@ -5543,7 +5543,7 @@ section.features .feature-2 {
 }
 /*! -- Pillar Modals -- */
 .modal-content.height--natural {
-  max-width: 450px;
+  max-width: 550px;
 }
 .modal-content.bg--dark {
   background: #000;
