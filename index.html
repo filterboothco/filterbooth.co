@@ -1334,18 +1334,18 @@ Our Emerald Forest set of 13 presets will give your nature pictures colour depth
     <script>
             $(document).ready(function() {
               $('.owl-carousel').owlCarousel({
-                items: 4,
-                loop: true,
-                margin: 5,
-                merge: false,
-                responsive: {
-                  678: {
-                    mergeFit: true
-                  },
-                  1000: {
-                    mergeFit: false
-                  }
-                }
+                 center: true,
+    items:1,
+    loop:true,
+    margin:5,
+    smartSpeed:550,
+    navigation: true,
+    
+    responsive:{
+        600:{
+            items:4
+        }
+    }
               });
             })
           </script>
