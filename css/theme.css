@@ -8378,4 +8378,14 @@ color: #eee !important;
   transform: scale(1.01);
   background-color: black;
 }
+.filterbooth-who { 
+  margin-bottom: 70px;
+ }
+.filterbooth-who img {
+  width: 125px;
+ }
+ .filterbooth-who a{
+  margin: 0 auto;
+
+ }
 
