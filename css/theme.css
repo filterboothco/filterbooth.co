@@ -1083,9 +1083,9 @@ a {
 .btn .btn__text,
 .btn i {
   color: #343434;
-  border-color: #343434;
-  font-weight: 400;
-  font-size: 0.625em;
+border-color: #343434;
+font-weight: 600;
+font-size: 0.725em;
 }
 .btn[class*='col-'] {
   margin-left: 0;
