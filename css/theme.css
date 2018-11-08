@@ -2328,7 +2328,7 @@ section.bg--dark .slider.slider--controlsoutside[data-paging="true"] .owl-theme 
 .modal-container .modal-content .modal-close-cross {
   cursor: pointer;
   position: absolute;
-  opacity: .5;
+  opacity: .8;
   transition: 0.1s linear;
   -webkit-transition: 0.1s linear;
   -moz-transition: 0.1s linear;
