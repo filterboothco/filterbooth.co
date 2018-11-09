@@ -2127,6 +2127,13 @@ section.slider .owl-theme .owl-controls .owl-nav div.owl-next {
   bottom: 1.625em;
   z-index: 99;
   text-align: center;
+  display: none;
+  visibility: hidden;
+}
+.owl-carousel .owl-dots {
+    display: none;
+  visibility: hidden;
+
 }
 .owl-theme .owl-controls .owl-dots .owl-dot {
   display: inline-block;
@@ -8335,7 +8342,7 @@ margin-top: 10px;
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.3;
+  opacity: 0.1;
   transition: .3s ease;
   background-color: black;
   border-radius: 7px;
