@@ -1992,6 +1992,15 @@ img + .boxed {
   .row:last-child div[class*='col-']:last-child .boxed:last-child {
     margin-bottom: 0;
   }
+.filterbooth-content-slide p {
+  width: 100% !important;
+}
+.filterbooth-content-slide h1 {
+  font-size: 50px;
+}
+.filterbooth-overlay {
+  opacity: 0.3;
+}
 }
 /**! 19. Sliders **/
 section.slider {
